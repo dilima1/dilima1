@@ -1,6 +1,5 @@
 ### Olá!!!! Eu Sou o Edilson Lima.
 
-- ⚡ Hoje trabalho com Front-End
 - ⚡ Estudando: HTML, CSS e JavaScript
 - ⚡ Pronouns: Ele/Dele
 
